@@ -1,0 +1,1 @@
+This script generates a map of Slovenia in R, including the option to plot sampling points from user-provided coordinates. It also demonstrates how to add river data, in this case sourced from open-source datasets.
